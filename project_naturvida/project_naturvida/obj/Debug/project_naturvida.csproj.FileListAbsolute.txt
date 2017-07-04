@@ -1,0 +1,15 @@
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\bin\Debug\project_naturvida.exe.config
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\bin\Debug\project_naturvida.exe
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\bin\Debug\project_naturvida.pdb
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.csprojResolveAssemblyReference.cache
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Properties.Resources.resources
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.csproj.GenerateResource.Cache
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.exe
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.pdb
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.frmPrincipal.resources
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Productos.resources
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Clientes.resources
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Factura.resources
+c:\users\sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Inventario.resources
+C:\Users\Sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\bin\Debug\MySql.Data.dll
+C:\Users\Sofi\documents\visual studio 2012\Projects\project_naturvida\project_naturvida\obj\Debug\project_naturvida.Login.resources
